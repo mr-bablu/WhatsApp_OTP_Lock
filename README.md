@@ -1,8 +1,7 @@
 ## FEATURES :
-* [+] Dangerous otp lock tool !
-* [+] Updated maintainence !
-* [+] Easy for beginners !
-* [+] Working otp lock tool for termux !
+[+] Updated maintainence !
+[+] Easy for beginners !
+[+] Working otp lock tool for termux !
 
 ## INSTALLATION [Termux] :
 
@@ -10,10 +9,10 @@
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone `
+* `git clone https://github.com/mr-bablu/WhatsApp_OTP_Lock.git`
 * `cd $HOME`
 * `ls`
-* `cd PERMANENT-WH-OTP-LOCK`
+* `cd WhatsApp_OTP_Lock`
 * `pip install requests`
 * `pip install rich`
 * `ls`
